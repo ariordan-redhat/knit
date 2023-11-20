@@ -1,2 +1,2 @@
-# knit-git
+# knit
 Repo for fibre information
